@@ -1,0 +1,4 @@
+classes = 1
+train = data/train_iforange.txt
+names = data/iforange.names
+backup = data/backup_iforange
